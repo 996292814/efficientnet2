@@ -1,0 +1,2 @@
+# efficientnet2
+efficientnet与pointnet结合提取特征
