@@ -1,5 +1,6 @@
 # efficientnet2
 efficientnet与pointnet结合提取特征
+
 [保姆级使用PyTorch训练与评估自己的EfficientNetV2网络教程_efficientnetv2训练自己数据集-CSDN博客](https://blog.csdn.net/zzh516451964zzh/article/details/129443407)
 
 [保姆级使用PyTorch训练与评估自己的EfficientNet网络教程_efficientnet训练-CSDN博客](https://blog.csdn.net/zzh516451964zzh/article/details/124754493)
@@ -13,3 +14,5 @@ efficientnet与pointnet结合提取特征
 [Pytorch版的Efficientnet训练自己的数据集_torchvision的efficentnet-CSDN博客](https://blog.csdn.net/qq_55068938/article/details/122154697)
 
 [gitHub不能用密码推送了，必须要使用令牌_github 提交不让用密码-CSDN博客](https://blog.csdn.net/weixin_42907822/article/details/128155118)
+
+https://blog.csdn.net/qq_41638200/article/details/115725586
